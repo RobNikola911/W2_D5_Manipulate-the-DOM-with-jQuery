@@ -1,0 +1,37 @@
+pre {
+    color: #015668;
+    background: #0D91A1;
+    width: 100px;
+    height: 50px;
+    margin: 10px 20px 20px 400px;
+    padding: 10px 80px 10px 10px;
+    border: 2px solid #7DCE94;
+    font-family: 'Galada', cursive;
+  }
+
+  h1 {
+    color: #ff0000;
+  }
+  
+  h2 {
+    color: #6b00b3;
+  }
+  
+  ul {
+    list-style-type: square;
+  }
+  
+  ol {
+    list-style-type: upper-roman;
+  }
+  
+  .pinkunderlined {
+    color: #cc6699;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+  }
+  
+  .underlined {
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+  }
