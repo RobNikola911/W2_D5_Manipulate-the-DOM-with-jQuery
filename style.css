@@ -20,6 +20,10 @@ pre {
   ul {
     list-style-type: square;
   }
+
+  li {
+    font-style: normal;
+  }
   
   ol {
     list-style-type: upper-roman;
